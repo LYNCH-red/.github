@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🔥 LYNCH
+<img src="./logo.png" alt="LYNCH" width="120" />
+
+# LYNCH
 
 **AI roasts any website in 30 seconds.**
 
@@ -59,6 +61,12 @@ Each category is rated on a **star scale from 0.0 to 5.0** (half-stars included,
 - [ ] Payments & subscription tiers
 - [ ] Critic personas
 - [ ] Shareable OG cards
+
+---
+
+## License
+
+MIT © [CatsNBuds](https://github.com/CatsNBuds)
 
 ---
 
